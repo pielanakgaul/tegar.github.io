@@ -1,0 +1,29 @@
+.mamam{
+    background-color: rgba(47, 131, 170, 0.493);
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 70px;
+    font-size: 20px;
+    word-spacing: 5pt;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    color: rgba(44, 44, 197, 0.76);
+}
+
+h4{
+    margin-left: 55px;
+}
+
+.text-white{
+    color: rgb(37, 75, 156);
+}
+
+img{
+    height: 500px;
+    width: 550px;
+    margin-left: 90px;
+}

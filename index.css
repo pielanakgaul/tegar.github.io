@@ -1,0 +1,72 @@
+@import url('https://fonts.google.com/specimen/Roboto?selection.family=Hanalei+Fill|Oswald:wght@200|Roboto#standard-styles');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+.text-primary { color: #174488; }
+.text-secondary { color:orange; }
+.text-white { color:orange}
+
+a{ text-decoration: none;}
+
+.container{
+    width: 100%;
+    height:100vh;
+    background-color: green;
+}
+.jumbotron{
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+header {
+    width: 100%;
+    padding: 10px 10px;
+}
+
+header h3 {
+    font-size: 24px;
+    font-weight: bolder;
+}
+main {
+    display: grid;
+    grid-template-columns: lfr 3.3fr;
+}
+.line{
+    width: 80%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    margin-top: 295px;
+}
+.jumbotron{
+    margin-top: -50px;
+}
+.jumbotrom__social_media{
+
+    margin-right: 0.50rem;
+    font-size: 40px;
+    margin-left: 700px;
+}
+.jumbotron__social_media a .iconify {
+    font-size: 50px;    
+    cursor: pointer;
+}
+
+.jumbotron__button{
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(40px);
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 160px;
+    border-radius: 40px;
+    box-shadow: rgba(43, 38,38, 0.03);
+    margin-left: -25px;
+    margin-top: 30px;
+}
+
+.lgbt {
+    text-align: center;
+}

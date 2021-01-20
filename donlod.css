@@ -1,0 +1,27 @@
+body{
+    background-color: cyan;
+    background-attachment: fixed;
+}
+
+.first{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 10px;
+    color: coral;
+}
+
+.second{
+    font-size: 20px;
+    font-weight: bolder;
+    color: darkcyan;
+}
+.link{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 5px;
+    color: darkmagenta;
+}
+.laporan{
+    margin-left: 30px;
+    font-size: 20px;
+}
